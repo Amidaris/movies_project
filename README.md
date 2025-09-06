@@ -1,1 +1,1 @@
-# movies_project
+# This is a simple application for searching a movie database by category.
